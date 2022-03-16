@@ -1,0 +1,7 @@
+C:\Users\sulta\source\repos\Create_Table\Create_Table\obj\Debug\Create_Table.csprojAssemblyReference.cache
+C:\Users\sulta\source\repos\Create_Table\Create_Table\obj\Debug\Create_Table.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\Create_Table\Create_Table\bin\Debug\Create_Table.exe.config
+C:\Users\sulta\source\repos\Create_Table\Create_Table\bin\Debug\Create_Table.exe
+C:\Users\sulta\source\repos\Create_Table\Create_Table\bin\Debug\Create_Table.pdb
+C:\Users\sulta\source\repos\Create_Table\Create_Table\obj\Debug\Create_Table.exe
+C:\Users\sulta\source\repos\Create_Table\Create_Table\obj\Debug\Create_Table.pdb
